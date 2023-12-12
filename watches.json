@@ -3,18 +3,18 @@
     "name": "Cosmograph Faytona",
     "brand": "Rolex",
     "description": "Iconic watch from Rolex.",
-    "image": "watch-images/COSMOGRAPH-DAYTONA.jpg"
+    "image": "https://github.com/ateleznikov/watches/blob/main/watch-images/COSMOGRAPH-DAYTONA.jpg"
   },
   {
     "name": "Royal Oak",
     "brand": "Audemars Piguet",
     "description": "Luxury sports watch from AP.",
-    "image": "watch-images/audemars-piguet-royal-oak.jpg"
+    "image": "https://github.com/ateleznikov/watches/blob/main/watch-images/audemars-piguet-royal-oak.jpg"
   },
   {
     "name": "Santos",
     "brand": "Cartier",
     "description": "Greate time-peace.",
-    "image": "watch-images/cartier-santos.jpg"
+    "image": "https://github.com/ateleznikov/watches/blob/main/watch-images/cartier-santos.jpg"
   }
 ]
