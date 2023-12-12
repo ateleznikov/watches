@@ -3,7 +3,7 @@
     "name": "Cosmograph Faytona",
     "brand": "Rolex",
     "description": "Iconic watch from Rolex.",
-    "image": "watch-images/COSMOGRAPH-DAYTONA.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/COSMOGRAPH-DAYTONA.jpg"
   },
   {
     "name": "Royal Oak",
