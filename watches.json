@@ -3,55 +3,64 @@
     "name": "Cosmograph Faytona",
     "brand": "Rolex",
     "description": "Iconic watch from Rolex.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/COSMOGRAPH-DAYTONA.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/COSMOGRAPH-DAYTONA.jpg",
+    "price": "10000$"
   },
   {
     "name": "Royal Oak",
     "brand": "Audemars Piguet",
     "description": "Luxury sports watch from AP.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/audemars-piguet-royal-oak.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/audemars-piguet-royal-oak.jpg",
+    "price": "35000$"
   },
   {
     "name": "Santos",
     "brand": "Cartier",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/cartier-santos.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/cartier-santos.jpg",
+    "price": "25000$"
   },
   {
     "name": "Seamaster",
     "brand": "Omega",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/omega-seamaster-210-30-42-20-04-001.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/omega-seamaster-210-30-42-20-04-001.jpg",
+    "price": "5000$"
   },
   {
     "name": "Richard Mille",
     "brand": "RM 052",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/RichardMilleRM052TourbillonSkullTitanium2012_grande%20Large.jpeg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/RichardMilleRM052TourbillonSkullTitanium2012_grande%20Large.jpeg",
+    "price": "750000$"
   },
   {
     "name": "RGirard Perregaux",
     "brand": "Laureato",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/girard-perregaux-laureato-blue-42mm-81010-11-431-11a-000-eur-7537000-eur.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/girard-perregaux-laureato-blue-42mm-81010-11-431-11a-000-eur-7537000-eur.jpg",
+    "price": "13000$"
   },
   {
     "name": "TAG Heuer",
     "brand": "Aquaracer",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/tag-heuer-aquaracer-professional-300-automatic-wat-10125-s3a5.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/tag-heuer-aquaracer-professional-300-automatic-wat-10125-s3a5.jpg",
+    "price": "8000$"
   },
   {
     "name": "Tudor",
     "brand": "Pelagos",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/tudor-m25600tn-0001.jpeg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/tudor-m25600tn-0001.jpeg",
+    "price": "4000$"
   },
   {
     "name": "Rolex",
     "brand": "Submariner",
     "description": "Greate time-peace.",
-    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/rolex_124060_rol-004275-01-0_front.jpg"
+    "image": "https://raw.githubusercontent.com/ateleznikov/watches/main/watch-images/rolex_124060_rol-004275-01-0_front.jpg",
+    "price": "16000$"
   }
    
 ]
